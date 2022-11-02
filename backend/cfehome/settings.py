@@ -159,9 +159,8 @@ REST_FRAMEWORK={
 
 # environment variables -> django-dotenv
 ALGOLIA ={
-    'APPLICATION_ID':'MJL35Y9IM0',
-    'API_KEY':'4ccf5acde7d0b37a5e140a72ab3ee051',
-    'INDEX_PREFIX':'ineldo'
+   
+    #go to algolia website and get your credentials like api_key and whatsoever
 }
 
 SIMPLE_JWT={
